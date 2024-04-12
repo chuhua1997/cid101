@@ -1,3 +1,8 @@
 nav {
     background-color: red;
 }
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
